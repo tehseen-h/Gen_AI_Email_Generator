@@ -29,11 +29,7 @@
 ### Prerequisites  
 - Python 3.8+  
 - Groq API Key
-
-### Installation    
-git clone https://github.com/yourusername/gen-ai-email-generator.git  
-cd gen-ai-email-generator  
-pip install -r requirements.txt
+- StreamLit
 
 
 ## How It Works
